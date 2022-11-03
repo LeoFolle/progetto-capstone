@@ -1,0 +1,32 @@
+.padding-0 {
+    padding-right: 0;
+    padding-left: 1;
+}
+.urlimg {
+    height: 100px;
+    width: 200px;
+}
+@media only screen and (max-width: 767px) {
+    .urlimg {
+        height: 100px;
+        width: 200px;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    .urlimg {
+        height: 100px;
+        width: 150px;
+    }
+  }
+  @media only screen and (min-width: 991px) {
+    .urlimg {
+        height: 100px;
+        width: 140px;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    .urlimg {
+        height: 100px;
+        width: 180px;
+    }
+  }

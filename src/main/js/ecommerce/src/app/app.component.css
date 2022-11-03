@@ -1,0 +1,6 @@
+.container {
+    padding-top: 65px;
+    transition: 1s;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(193,225,247,0.6) 30%, rgba(193,225,247,0.6) 70%, rgba(255,255,255,1) 100%);
+}
